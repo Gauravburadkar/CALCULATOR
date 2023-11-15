@@ -1,2 +1,2 @@
 # CALCULATOR
-I have created a Simple Calculator Using Java Programming Language.
+Created a simple Calculator Using Java that can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
